@@ -6,6 +6,6 @@ Collection of documented program based on java:
 * HTTP Streaming: https://github.com/triarts/MultimediaCourse_FinalProject
   * Desc: Multimedia course final project, goals is to implement HTTP streaming. The server is using VLC media player and the client is using andorid app
 * Video Streaming via TCP (Client, Server): https://github.com/triarts/multimedia-hw2
-  *
+  * Given a video file, you have to write programs that are able to read the file, packetize it with RTP/UDP/IP and send those packets to a remote receiver host. The receiver host has to reconstruct the video file into the original form
 * File grouping (java swing, awt): https://github.com/triarts/BackupHelper
   * Desc: Backup helper which can collect data that you specified in file list text, then group it into one folder that later make it easy for you to upload to cloud. Testing for java swing and awt implementation. Assuming not every person have their PC is fully SYNC with cloud storage.
